@@ -6,6 +6,8 @@ To use jquery in object oriented way only option is jquery ui widget. By which w
 
 We have created small component for demo purpose it's just doing addition/subtraction in calendar like control for input field.
 
+You can find step by step guide from [this blog](https://www.logisticinfotech.com/blog/Custom-Widget)
+
 Here is how it's looking
 ![alt text](https://www.logisticinfotech.com/wp-content/uploads/2018/07/jquery-simple-widget.gif
  "JQuery simplest widget")
